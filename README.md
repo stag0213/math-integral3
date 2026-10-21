@@ -10,4 +10,4 @@ C$((-\frac{\sqrt{3}}{2}\sin\theta-\frac12\cos\theta)\cos\theta,(-\frac12\sin\the
 
 を頂点とする三角形ABCが通過してできる立体
 
-$\cos{3x-1}+(1+x)^2$
+$\cos\theta+(1+x)^2$
