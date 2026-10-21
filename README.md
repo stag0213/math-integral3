@@ -1,6 +1,6 @@
 # 2026年度　兵庫県立大学入試問題
 
-## $-\frac{\pi}{2}<\theta<\frac{\pi}{2}$の範囲において、空間内の3点
+## $-\frac{\pi}{2}\leqq\theta\leqq\frac{\pi}{2}$の範囲において、空間内の3点
 
 ## $\textrm{A} (\cos^2{\theta},\sin\theta\cos\theta,\theta),$
 
