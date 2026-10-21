@@ -9,3 +9,5 @@ B$((-\frac{\sqrt{3}}{2}\sin\theta-\frac12\cos\theta)\cos\theta,(-\frac12\sin\the
 C$((-\frac{\sqrt{3}}{2}\sin\theta-\frac12\cos\theta)\cos\theta,(-\frac12\sin\theta-\frac{\sqrt{3}}{2}\cos\theta)\cos\theta,\theta)$
 
 を頂点とする三角形ABCが通過してできる立体
+
+$\sqrt{3x-1}+(1+x)^2$
